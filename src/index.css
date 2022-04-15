@@ -1,0 +1,10 @@
+body{
+  background-color: #131722 ;
+  color:white;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link,.auth-links .nav-link{
+  color:white ;
+}
+.secondColor{
+  color:#949cb0;}
